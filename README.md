@@ -5,4 +5,5 @@
 - `npm create vite@latest`
 
 ## 2. Instalação da biblioteca Material-UI
-- `npm i @material-ui/core @material-ui/icons`
+- `npm install @mui/material @emotion/react @emotion/styled`
+- `npm install @mui/icons-material`
