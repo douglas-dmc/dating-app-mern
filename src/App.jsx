@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './components/Header/Header'
 import DatingCards from "./components/DatingCards/DatingCards"
+import SwipeButtons from './components/SwipeButtons/SwipeButtons'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <div>
         <Header />
         <DatingCards />
+        <SwipeButtons />
       </div>
     </>
   )
